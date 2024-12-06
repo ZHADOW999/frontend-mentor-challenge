@@ -1,0 +1,56 @@
+.main-grid{
+  display:grid;
+  grid-template-columns: 550px 100px;
+  margin-left: 80px;
+  margin-right:60px;
+}
+.right-division{
+  margin-top:70px;
+  margin-left:px;
+  width:300px;
+}
+.head-word{
+  font-size:30px;
+  width:400px;
+  flex:1;
+}
+.right-division p{
+  font-size: px;
+  margin-bottom:60px;
+  line-height:1.5;
+  color:rgb(90, 85, 85);
+}
+.left-division{
+  margin-right:0px;
+}
+.left-image{
+ width:450px;
+}
+.button{
+  background-color:black;
+  color:white;
+  font-size:13px;
+  height:35px;
+  width:100px;
+  border:none;
+  border-radius:8px;
+  margin-bottom:120px;
+}
+.other-logos{
+  display:grid;
+  grid-template-columns: 80px 60px 60px 40px;
+  column-gap:40px;
+  width:70px;
+}
+.databiz{
+  width:80px;
+}
+.audiophile{
+  width:50px;
+}
+.meet{
+  width:60px;
+}
+.maker{
+  width:70px;
+}

@@ -1,0 +1,65 @@
+header{
+  display:flex;
+  flex-direction:left;
+  justify-content:space-between;
+  margin:20px;
+  font-size:11px;
+  font-family: Epilogue;
+}
+.right-section{
+  display:flex;
+  align-items:center;
+  flex:1;
+}
+.logo{
+  height:25px;
+  padding-top:10px;
+  margin-left:0px;
+  margin-right:20px;
+}
+.nav-bar a{
+  margin:15px;
+  text-decoration: none;
+  color:rgb(52, 48, 48);
+}
+.dropdownxlass{
+  position:relative;
+}
+.company{
+  position:relative;
+}
+.dropdown-button1{
+   background-color:white;
+   border:none;
+}
+.dropdown-button2{
+  background-color:white;
+  border:none;
+}
+.dropdown-menu1{
+  position:absolute;
+}
+.dropdown-menu2{
+  position:absolute;
+  background-color:beige;
+}
+.left-section{
+  display:flex;
+  align-items:center;
+}
+.left-section a{
+  text-decoration: none;
+  color:rgb(52, 48, 48);
+}
+.left-section a, button:hover{
+  cursor: pointer;
+}
+.register-button{
+  background-color:white;
+  font-size:11px;
+  height:30px;
+  width:70px;
+  border-radius:10px;
+  border:solid;
+  border-width:1px;
+}
